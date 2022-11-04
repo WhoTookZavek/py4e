@@ -1,0 +1,5 @@
+print('What is your rank?')
+x = input()
+x = int(x)
+print('Ur cheating') if x > 1500 else print('Git gud')
+input()
